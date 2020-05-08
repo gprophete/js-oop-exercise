@@ -23,3 +23,9 @@ class Player {
 
 const player = new Player('Neo');
 
+player.feedTamagotchi(tam1)
+
+player.medicateTamagotchi(tam2)
+
+player.knockOutTamagotchi(tam1)
+
