@@ -1,7 +1,7 @@
 // console.log('tamagotchi file is loaded');
 
 class Tamagotchi {
-    constructor(foodInTummy, restedness, health, name, creatureType) {
+    constructor(name, creatureType) {
         this.foodInTummy = 10
         this.restedness = 10
         this.health = 10
